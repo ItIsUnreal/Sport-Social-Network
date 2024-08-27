@@ -1,5 +1,9 @@
 "# Sport-Social-Network" 
 Sport Client - Front end
+Creaza tu un proiect react cu 
+npx create-react-app "sports-social-network"
+Si da-i replace la folderul src
+
 Instaleaza Node.js daca nu il ai deja si in terminalul de la vs copiaza:
 npm install axios
 npm install bootstrap
@@ -10,6 +14,7 @@ npm i react-player
 npm i react-router-dom
 npm install @mui/material@emotion/react@emotion/styled
 npm install react-material-ui-carousel
+npm start 
 
 Sport - backend 
 Da-i un refresh la maven, daca nu se instaleaza automat dependency-urile
