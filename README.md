@@ -24,4 +24,4 @@ Pentru MongoDB am facut eu un cluster si am pus parola in .env file respectiv ap
 Ai pe wapp poza cu cerintele, cam el tot imi repeta ca e cam putin, ca am doar un singur endpoint, macar atat sa fac =)))
 Ai JSON-ul pe care l-am folosit "sports"
 
-PS: Nu stiu de ce nu le pot adauga pe ambele aici, iti trimit in alt repo frontul.
+PS: Cand deschizi app daca nu se incarca apasa pe "Favourites" si dupa pe "home" 
