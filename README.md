@@ -17,5 +17,6 @@ Da-i un refresh la maven, daca nu se instaleaza automat dependency-urile
 Pentru MongoDB am facut eu un cluster si am pus parola in .env file respectiv application.properties. Iti pun acolo si JSON-ul pe care l-am folosit
 
 Ai pe wapp poza cu cerintele, cam el tot imi repeta ca e cam putin, ca am doar un singur endpoint, macar atat sa fac =)))
+Ai JSON-ul pe care l-am folosit "sports"
 
 PS: Nu stiu de ce nu le pot adauga pe ambele aici, iti trimit in alt repo frontul.
